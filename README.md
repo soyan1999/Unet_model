@@ -1,2 +1,3 @@
 # Unet_model
-A Unet model for dis_cup
+dis_cup的Unet模型
+使用diceloss作为损失函数
